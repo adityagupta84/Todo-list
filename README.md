@@ -6,7 +6,7 @@ You can add, edit, and delete your tasks, and they even stay saved in your brows
 
 ## 🌟 Live Demo
 
-Check out the live version [here](#) (feel free to update this link once it's hosted).
+Check out the live version (https://adityagupta84.github.io/Todo-list-/)
 
 ## 📋 What's Inside?
 
